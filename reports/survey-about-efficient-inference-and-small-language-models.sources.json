@@ -1,0 +1,314 @@
+[
+  {
+    "n": 1,
+    "id": "2606.23406",
+    "url": "https://arxiv.org/abs/2606.23406",
+    "title": "HyperQuant: A Rate-Distortion-Optimal Quantization Pipeline for Large Language and Diffusion Models",
+    "date": "2026-06-22",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2607.28418",
+    "url": "https://arxiv.org/abs/2607.28418",
+    "title": "WIDE: Boosting Adaptive LLM Inference via Token-level Dynamic Width Pruning",
+    "date": "2026-07-30",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2609.36590",
+    "url": "https://arxiv.org/abs/2609.36590",
+    "title": "SEED: Self-Speculative Decoding via Implicit Encoder-Decoder",
+    "date": "2026-09-29",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2608.14376",
+    "url": "https://arxiv.org/abs/2608.14376",
+    "title": "CoRun: Padding is Simple and Efficient for Deterministic LLM Inference",
+    "date": "2026-08-14",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2610.12242",
+    "url": "https://arxiv.org/abs/2610.12242",
+    "title": "TokenRouter: Efficient Serving System for Token-Level LLM Routing",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2507.18073",
+    "url": "https://arxiv.org/abs/2507.18073",
+    "title": "Squeeze10-LLM: Squeezing LLMs' Weights by 10 Times via a Staged Mixed-Precision Quantization Method",
+    "date": "2025-07-24",
+    "source": "arxiv"
+  },
+  {
+    "n": 7,
+    "id": "2607.08161",
+    "url": "https://arxiv.org/abs/2607.08161",
+    "title": "SQuaD-SQL: Efficient Text-to-SQL with Small Language Models via LLM-Guided Knowledge Distillation",
+    "date": "2026-07-09",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "2306.08543",
+    "url": "https://huggingface.co/papers/2306.08543",
+    "title": "Knowledge Distillation of Large Language Models",
+    "date": "2023-06-14",
+    "source": "hf-search"
+  },
+  {
+    "n": 9,
+    "id": "2608.03796",
+    "url": "https://huggingface.co/papers/2608.03796",
+    "title": "Efficient Knowledge Distillation for LLMs: Offline Top-K Logits and a Fused Chunked KL Loss",
+    "date": "2026-08-04",
+    "source": "hf-search"
+  },
+  {
+    "n": 10,
+    "id": "2605.07783",
+    "url": "https://arxiv.org/abs/2605.07783",
+    "title": "Chain-based Distillation for Effective Initialization of Variable-Sized Small Language Models",
+    "date": "2026-05-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 11,
+    "id": "2609.22131",
+    "url": "https://arxiv.org/abs/2609.22131",
+    "title": "Correlation-Aware Structured Pruning for Large Language Models",
+    "date": "2026-08-23",
+    "source": "arxiv"
+  },
+  {
+    "n": 12,
+    "id": "2502.03460",
+    "url": "https://huggingface.co/papers/2502.03460",
+    "title": "Adapt-Pruner: Adaptive Structural Pruning for Efficient Small Language Model Training",
+    "date": "2025-02-05",
+    "source": "hf-search"
+  },
+  {
+    "n": 13,
+    "id": "2502.07780",
+    "url": "https://huggingface.co/papers/2502.07780",
+    "title": "DarwinLM: Evolutionary Structured Pruning of Large Language Models",
+    "date": "2025-02-11",
+    "source": "hf-search"
+  },
+  {
+    "n": 14,
+    "id": "2610.02235",
+    "url": "https://arxiv.org/abs/2610.02235",
+    "title": "CORE: COverage CAlibration and Evicted-Mass REdistribution for KV Cache",
+    "date": "2026-09-28",
+    "source": "arxiv"
+  },
+  {
+    "n": 15,
+    "id": "2609.32663",
+    "url": "https://arxiv.org/abs/2609.32663",
+    "title": "Distance-KV: Exploiting Relative Distance for Efficient Long-Context Inference",
+    "date": "2026-09-26",
+    "source": "arxiv"
+  },
+  {
+    "n": 16,
+    "id": "2610.11287",
+    "url": "https://huggingface.co/papers/2610.11287",
+    "title": "REMORY: Learning Residual Memory for Context Compaction",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 17,
+    "id": "2502.02737",
+    "url": "https://huggingface.co/papers/2502.02737",
+    "title": "SmolLM2: When Smol Goes Big -- Data-Centric Training of a Small Language Model",
+    "date": "2025-02-04",
+    "source": "hf-search"
+  },
+  {
+    "n": 18,
+    "id": "2402.16840",
+    "url": "https://huggingface.co/papers/2402.16840",
+    "title": "MobiLlama: Towards Accurate and Lightweight Fully Transparent GPT",
+    "date": "2024-02-26",
+    "source": "hf-search"
+  },
+  {
+    "n": 19,
+    "id": "2402.14905",
+    "url": "https://huggingface.co/papers/2402.14905",
+    "title": "MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases",
+    "date": "2024-02-22",
+    "source": "hf-search"
+  },
+  {
+    "n": 20,
+    "id": "2511.06719",
+    "url": "https://huggingface.co/papers/2511.06719",
+    "title": "MobileLLM-Pro Technical Report",
+    "date": "2025-11-10",
+    "source": "hf-search"
+  },
+  {
+    "n": 21,
+    "id": "2404.14219",
+    "url": "https://huggingface.co/papers/2404.14219",
+    "title": "Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone",
+    "date": "2024-04-22",
+    "source": "hf-search"
+  },
+  {
+    "n": 22,
+    "id": "2502.10001",
+    "url": "https://huggingface.co/papers/2502.10001",
+    "title": "EmbBERT-Q: Breaking Memory Barriers in Embedded NLP",
+    "date": "2025-02-14",
+    "source": "hf-search"
+  },
+  {
+    "n": 23,
+    "id": "2405.14159",
+    "url": "https://huggingface.co/papers/2405.14159",
+    "title": "Super Tiny Language Models",
+    "date": "2024-05-23",
+    "source": "hf-search"
+  },
+  {
+    "n": 24,
+    "id": "2410.20011",
+    "url": "https://huggingface.co/papers/2410.20011",
+    "title": "A Survey of Small Language Models",
+    "date": "2024-10-25",
+    "source": "hf-search"
+  },
+  {
+    "n": 25,
+    "id": "2407.10671",
+    "url": "https://huggingface.co/papers/2407.10671",
+    "title": "Qwen2 Technical Report",
+    "date": "2024-07-15",
+    "source": "hf-search"
+  },
+  {
+    "n": 26,
+    "id": "2408.13933",
+    "url": "https://huggingface.co/papers/2408.13933",
+    "title": "MobileQuant: Mobile-friendly Quantization for On-device Language Models",
+    "date": "2024-08-25",
+    "source": "hf-search"
+  },
+  {
+    "n": 27,
+    "id": "2607.05147",
+    "url": "https://arxiv.org/abs/2607.05147",
+    "title": "DSpark: Confidence-Scheduled Speculative Decoding with Semi-Autoregressive Generation",
+    "date": "2026-07-06",
+    "source": "arxiv"
+  },
+  {
+    "n": 28,
+    "id": "2502.06786",
+    "url": "https://huggingface.co/papers/2502.06786",
+    "title": "Matryoshka Quantization",
+    "date": "2025-02-10",
+    "source": "hf-search"
+  },
+  {
+    "n": 29,
+    "id": "2503.12167",
+    "url": "https://huggingface.co/papers/2503.12167",
+    "title": "PLM: Efficient Peripheral Language Models Hardware-Co-Designed for Ubiquitous Computing",
+    "date": "2025-03-15",
+    "source": "hf-search"
+  },
+  {
+    "n": 30,
+    "id": "2503.01743",
+    "url": "https://huggingface.co/papers/2503.01743",
+    "title": "Phi-4-Mini Technical Report: Compact yet Powerful Multimodal Language Models via Mixture-of-LoRAs",
+    "date": "2025-03-03",
+    "source": "hf-search"
+  },
+  {
+    "n": 31,
+    "id": "2504.05299",
+    "url": "https://huggingface.co/papers/2504.05299",
+    "title": "SmolVLM: Redefining small and efficient multimodal models",
+    "date": "2025-04-07",
+    "source": "hf-search"
+  },
+  {
+    "n": 32,
+    "id": "2411.05046",
+    "url": "https://huggingface.co/papers/2411.05046",
+    "title": "PhoneLM:an Efficient and Capable Small Language Model Family through Principled Pre-training",
+    "date": "2024-11-07",
+    "source": "hf-search"
+  },
+  {
+    "n": 33,
+    "id": "2411.09944",
+    "url": "https://huggingface.co/papers/2411.09944",
+    "title": "SlimLM: An Efficient Small Language Model for On-Device Document Assistance",
+    "date": "2024-11-15",
+    "source": "hf-search"
+  },
+  {
+    "n": 34,
+    "id": "2404.06395",
+    "url": "https://huggingface.co/papers/2404.06395",
+    "title": "MiniCPM: Unveiling the Potential of Small Language Models with Scalable Training Strategies",
+    "date": "2024-04-09",
+    "source": "hf-search"
+  },
+  {
+    "n": 35,
+    "id": "2409.00608",
+    "url": "https://huggingface.co/papers/2409.00608",
+    "title": "TinyAgent: Function Calling at the Edge",
+    "date": "2024-09-01",
+    "source": "hf-search"
+  },
+  {
+    "n": 36,
+    "id": "2305.07759",
+    "url": "https://huggingface.co/papers/2305.07759",
+    "title": "TinyStories: How Small Can Language Models Be and Still Speak Coherent English?",
+    "date": "2023-05-12",
+    "source": "hf-search"
+  },
+  {
+    "n": 37,
+    "id": "2504.09184",
+    "url": "https://huggingface.co/papers/2504.09184",
+    "title": "Parameterized Synthetic Text Generation with SimpleStories",
+    "date": "2025-04-12",
+    "source": "hf-search"
+  },
+  {
+    "n": 38,
+    "id": "2603.14563",
+    "url": "https://huggingface.co/papers/2603.14563",
+    "title": "Multilingual TinyStories: A Synthetic Combinatorial Corpus of Indic Children's Stories for Training Small Language Models",
+    "date": "2026-03-15",
+    "source": "hf-search"
+  },
+  {
+    "n": 39,
+    "id": "2610.04875",
+    "url": "https://huggingface.co/papers/2610.04875",
+    "title": "SpecFold: Folding Multi-Branch Redundancy for Faster Speculative Decoding in Diffusion Language Models",
+    "date": "2026-10-06",
+    "source": "hf-daily"
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "n": 1,
+    "id": "2401.03048",
+    "url": "https://arxiv.org/abs/2401.03048",
+    "title": "Latte: Latent Diffusion Transformer for Video Generation",
+    "date": "2024-01-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2408.06072",
+    "url": "https://arxiv.org/abs/2408.06072",
+    "title": "CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer",
+    "date": "2024-08-12",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2412.03603",
+    "url": "https://arxiv.org/abs/2412.03603",
+    "title": "HunyuanVideo: A Systematic Framework For Large Video Generative Models",
+    "date": "2024-12-03",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2503.20314",
+    "url": "https://arxiv.org/abs/2503.20314",
+    "title": "Wan: Open and Advanced Large-Scale Video Generative Models",
+    "date": "2025-03-26",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2210.02399",
+    "url": "https://arxiv.org/abs/2210.02399",
+    "title": "Phenaki: Variable Length Video Generation From Open Domain Textual Description",
+    "date": "2022-10-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2312.14125",
+    "url": "https://arxiv.org/abs/2312.14125",
+    "title": "VideoPoet: A Large Language Model for Zero-Shot Video Generation",
+    "date": "2023-12-21",
+    "source": "arxiv"
+  },
+  {
+    "n": 7,
+    "id": "2509.25161",
+    "url": "https://arxiv.org/abs/2509.25161",
+    "title": "Rolling Forcing: Autoregressive Long Video Diffusion in Real Time",
+    "date": "2025-09-29",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "2507.12952",
+    "url": "https://arxiv.org/abs/2507.12952",
+    "title": "LoViC: Efficient Long Video Generation with Context Compression",
+    "date": "2025-07-17",
+    "source": "arxiv"
+  },
+  {
+    "n": 9,
+    "id": "2401.12945",
+    "url": "https://arxiv.org/abs/2401.12945",
+    "title": "Lumiere: A Space-Time Diffusion Model for Video Generation",
+    "date": "2024-01-23",
+    "source": "arxiv"
+  },
+  {
+    "n": 10,
+    "id": "2311.17982",
+    "url": "https://arxiv.org/abs/2311.17982",
+    "title": "VBench: Comprehensive Benchmark Suite for Video Generative Models",
+    "date": "2023-11-29",
+    "source": "arxiv"
+  },
+  {
+    "n": 11,
+    "id": "2310.11440",
+    "url": "https://arxiv.org/abs/2310.11440",
+    "title": "EvalCrafter: Benchmarking and Evaluating Large Video Generation Models",
+    "date": "2023-10-17",
+    "source": "arxiv"
+  },
+  {
+    "n": 12,
+    "id": "2407.14505",
+    "url": "https://arxiv.org/abs/2407.14505",
+    "title": "T2V-CompBench: A Comprehensive Benchmark for Compositional Text-to-video Generation",
+    "date": "2024-07-19",
+    "source": "arxiv"
+  },
+  {
+    "n": 13,
+    "id": "2406.08656",
+    "url": "https://arxiv.org/abs/2406.08656",
+    "title": "TC-Bench: Benchmarking Temporal Compositionality in Text-to-Video and Image-to-Video Generation",
+    "date": "2024-06-12",
+    "source": "arxiv"
+  },
+  {
+    "n": 14,
+    "id": "2402.12226",
+    "url": "https://huggingface.co/papers/2402.12226",
+    "title": "AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling",
+    "date": "2024-02-19",
+    "source": "hf-search"
+  },
+  {
+    "n": 15,
+    "id": "2603.06577",
+    "url": "https://huggingface.co/papers/2603.06577",
+    "title": "Omni-Diffusion: Unified Multimodal Understanding and Generation with Masked Discrete Diffusion",
+    "date": "2026-03-06",
+    "source": "hf-search"
+  },
+  {
+    "n": 16,
+    "id": "2510.06590",
+    "url": "https://huggingface.co/papers/2510.06590",
+    "title": "Ming-UniVision: Joint Image Understanding and Generation with a Unified Continuous Tokenizer",
+    "date": "2025-10-08",
+    "source": "hf-search"
+  },
+  {
+    "n": 17,
+    "id": "2509.16197",
+    "url": "https://huggingface.co/papers/2509.16197",
+    "title": "MANZANO: A Simple and Scalable Unified Multimodal Model with a Hybrid Vision Tokenizer",
+    "date": "2025-09-19",
+    "source": "hf-search"
+  },
+  {
+    "n": 18,
+    "id": "2603.03241",
+    "url": "https://huggingface.co/papers/2603.03241",
+    "title": "UniG2U-Bench: Do Unified Models Advance Multimodal Understanding?",
+    "date": "2026-03-03",
+    "source": "hf-search"
+  },
+  {
+    "n": 19,
+    "id": "2609.38597",
+    "url": "https://huggingface.co/papers/2609.38597",
+    "title": "PixelUMM: Encoder-Free Unified Image and Video Understanding and Generation",
+    "date": "2026-09-29",
+    "source": "hf-search"
+  },
+  {
+    "n": 20,
+    "id": "2412.07730",
+    "url": "https://arxiv.org/abs/2412.07730",
+    "title": "STIV: Scalable Text and Image Conditioned Video Generation",
+    "date": "2024-12-10",
+    "source": "arxiv"
+  },
+  {
+    "n": 21,
+    "id": "2410.08184",
+    "url": "https://arxiv.org/abs/2410.08184",
+    "title": "Scaling Laws For Diffusion Transformers",
+    "date": "2024-10-10",
+    "source": "arxiv"
+  },
+  {
+    "n": 22,
+    "id": "2610.06801",
+    "url": "https://huggingface.co/papers/2610.06801",
+    "title": "MC-Sparse: Deconstructing and Closing the Dense-Sparse Attention Gap in Diffusion Transformers",
+    "date": "2026-10-05",
+    "source": "hf-daily"
+  },
+  {
+    "n": 23,
+    "id": "2412.14164",
+    "url": "https://huggingface.co/papers/2412.14164",
+    "title": "MetaMorph: Multimodal Understanding and Generation via Instruction Tuning",
+    "date": "2024-12-18",
+    "source": "hf-search"
+  },
+  {
+    "n": 24,
+    "id": "2605.12305",
+    "url": "https://huggingface.co/papers/2605.12305",
+    "title": "Images in Sentences: Scaling Interleaved Instructions for Unified Visual Generation",
+    "date": "2026-05-12",
+    "source": "hf-search"
+  },
+  {
+    "n": 25,
+    "id": "2605.03475",
+    "url": "https://arxiv.org/abs/2605.03475",
+    "title": "WorldJen: An End-to-End Multi-Dimensional Benchmark for Generative Video Models",
+    "date": "2026-05-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 26,
+    "id": "2610.12458",
+    "url": "https://huggingface.co/papers/2610.12458",
+    "title": "OmniCapBench: A Deep-Structured Evaluation Framework for Fine-Grained Audio-Visual Captioning",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 27,
+    "id": "2312.03641",
+    "url": "https://arxiv.org/abs/2312.03641",
+    "title": "MotionCtrl: A Unified and Flexible Motion Controller for Video Generation",
+    "date": "2023-12-06",
+    "source": "arxiv"
+  },
+  {
+    "n": 28,
+    "id": "2404.02101",
+    "url": "https://arxiv.org/abs/2404.02101",
+    "title": "CameraCtrl: Enabling Camera Control for Text-to-Video Generation",
+    "date": "2024-04-02",
+    "source": "arxiv"
+  },
+  {
+    "n": 29,
+    "id": "2610.12104",
+    "url": "https://arxiv.org/abs/2610.12104",
+    "title": "VINCIE-NExT: Unlocking Video Editing from Images via In-Context Modeling",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 30,
+    "id": "2610.12421",
+    "url": "https://huggingface.co/papers/2610.12421",
+    "title": "Beyond Spatio-Temporal Priors: A Generalizable Approach for Dense Correspondence Matching",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 31,
+    "id": "2610.12299",
+    "url": "https://huggingface.co/papers/2610.12299",
+    "title": "Multi-Agent Egocentric World Model with Fine-Grained Embodied Interaction",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 32,
+    "id": "2610.12459",
+    "url": "https://huggingface.co/papers/2610.12459",
+    "title": "WorldGuide: Goal-Directed Video World Model for Procedural Task Execution",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 33,
+    "id": "2610.12461",
+    "url": "https://huggingface.co/papers/2610.12461",
+    "title": "OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 34,
+    "id": "2610.08941",
+    "url": "https://huggingface.co/papers/2610.08941",
+    "title": "SPW-Nav: A Streaming Panoramic World Model for Language-Guided Navigation",
+    "date": "2026-10-06",
+    "source": "hf-daily"
+  },
+  {
+    "n": 35,
+    "id": "2610.02967",
+    "url": "https://huggingface.co/papers/2610.02967",
+    "title": "Post-Training Frontier Text-to-Image Models by Composing Preference and Rubric Rewards",
+    "date": "2026-10-02",
+    "source": "hf-daily"
+  }
+]

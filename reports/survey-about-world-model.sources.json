@@ -1,0 +1,42 @@
+[
+  {
+    "n": 1,
+    "id": "2610.11794",
+    "url": "https://huggingface.co/papers/2610.11794",
+    "title": "Memento 3: Model-Based Recursive Self-Improvement through Reflective Rulebooks",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 2,
+    "id": "2610.12459",
+    "url": "https://huggingface.co/papers/2610.12459",
+    "title": "WorldGuide: Goal-Directed Video World Model for Procedural Task Execution",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 3,
+    "id": "2602.08968",
+    "url": "https://huggingface.co/papers/2602.08968",
+    "title": "Research on World Models Is Not Merely Injecting World Knowledge into Specific Tasks",
+    "date": "2026-02-02",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "2606.01164",
+    "url": "https://huggingface.co/papers/2606.01164",
+    "title": "World Models for AI: Space-Time Reasoning Technologies in Robotics and Navigation.",
+    "date": "2026-06-09",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "2601.20540",
+    "url": "https://arxiv.org/abs/2601.20540",
+    "title": "Advanced World Models in AI: Synthesis of Spatial and Temporal Dynamics",
+    "date": "2026-01-10",
+    "source": "web"
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "model": "deepseek-flash",
+  "elapsed_s": 7256.7,
+  "subagent_calls": 6,
+  "tool_calls": {
+    "edit_file": 1,
+    "execute": 6,
+    "ls": 3,
+    "read_file": 11,
+    "task": 6,
+    "write_file": 2,
+    "write_todos": 3
+  },
+  "tokens": {
+    "input": 721670,
+    "output": 25400
+  },
+  "topic": "survey about efficient inference and small language models",
+  "n_sources": 39,
+  "source_families": [
+    "arxiv",
+    "hf-daily",
+    "hf-search"
+  ]
+}

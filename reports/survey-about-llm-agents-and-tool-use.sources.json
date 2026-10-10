@@ -1,0 +1,458 @@
+[
+  {
+    "n": 1,
+    "id": "2610.09858",
+    "url": "https://arxiv.org/abs/2610.09858",
+    "title": "Training Advisors for LLM Agents from Task Outcomes",
+    "date": "2026-10-07",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2407.00121",
+    "url": "https://huggingface.co/papers/2407.00121",
+    "title": "Granite-Function Calling Model: Introducing Function Calling Abilities via Multi-task Learning of Granular Tasks",
+    "date": "2024-06-27",
+    "source": "hf-search"
+  },
+  {
+    "n": 3,
+    "id": "2410.04587",
+    "url": "https://huggingface.co/papers/2410.04587",
+    "title": "Hammer: Robust Function-Calling for On-Device Language Models via Function Masking",
+    "date": "2024-10-06",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "2307.16789",
+    "url": "https://huggingface.co/papers/2307.16789",
+    "title": "ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs",
+    "date": "2023-07-31",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "2609.22218",
+    "url": "https://arxiv.org/abs/2609.22218",
+    "title": "Toollery: Scaling LLM Agents to Thousands of Skills and Tools",
+    "date": "2026-09-02",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2609.38108",
+    "url": "https://arxiv.org/abs/2609.38108",
+    "title": "Do LLM Agents Execute the Plans They Declare? From Planning-Mode Declaration to Pattern-Specific Execution",
+    "date": "2026-09-29",
+    "source": "arxiv"
+  },
+  {
+    "n": 7,
+    "id": "2609.35540",
+    "url": "https://arxiv.org/abs/2609.35540",
+    "title": "Continuous Context Management",
+    "date": "2026-09-28",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "2606.16364",
+    "url": "https://arxiv.org/abs/2606.16364",
+    "title": "Looking Is Not Picking: An Attention-Segment Account of Tool-Selection Failures in LLM Agents",
+    "date": "2026-06-15",
+    "source": "arxiv"
+  },
+  {
+    "n": 9,
+    "id": "2609.25678",
+    "url": "https://arxiv.org/abs/2609.25678",
+    "title": "Toolcompass: Guiding Tool Trialing, Not Suppressing It",
+    "date": "2026-09-22",
+    "source": "arxiv"
+  },
+  {
+    "n": 10,
+    "id": "2610.01415",
+    "url": "https://arxiv.org/abs/2610.01415",
+    "title": "Beyond Memory: Harnessing Long-Horizon Agents with Explicit Belief States",
+    "date": "2026-10-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 11,
+    "id": "2610.07863",
+    "url": "https://arxiv.org/abs/2610.07863",
+    "title": "ReFold: Training-Free Reversible Inter-Turn Context Folding for Long-Horizon Agents",
+    "date": "2026-10-06",
+    "source": "arxiv"
+  },
+  {
+    "n": 12,
+    "id": "2610.11287",
+    "url": "https://huggingface.co/papers/2610.11287",
+    "title": "REMORY: Learning Residual Memory for Context Compaction",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 13,
+    "id": "2610.11794",
+    "url": "https://huggingface.co/papers/2610.11794",
+    "title": "Memento 3: Model-Based Recursive Self-Improvement through Reflective Rulebooks",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 14,
+    "id": "2410.10872",
+    "url": "https://huggingface.co/papers/2410.10872",
+    "title": "ToolBridge: An Open-Source Dataset to Equip LLMs with External Tool Capabilities",
+    "date": "2024-10-08",
+    "source": "hf-search"
+  },
+  {
+    "n": 15,
+    "id": "2605.05758",
+    "url": "https://huggingface.co/papers/2605.05758",
+    "title": "BioTool: A Comprehensive Tool-Calling Dataset for Enhancing Biomedical Capabilities of Large Language Models",
+    "date": "2026-05-07",
+    "source": "hf-search"
+  },
+  {
+    "n": 16,
+    "id": "2412.09605",
+    "url": "https://huggingface.co/papers/2412.09605",
+    "title": "AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials",
+    "date": "2024-12-12",
+    "source": "hf-search"
+  },
+  {
+    "n": 17,
+    "id": "2610.10549",
+    "url": "https://huggingface.co/papers/2610.10549",
+    "title": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction",
+    "date": "2026-10-07",
+    "source": "hf-daily"
+  },
+  {
+    "n": 18,
+    "id": "2608.22167",
+    "url": "https://huggingface.co/papers/2608.22167",
+    "title": "MCP-Universe RL: A Framework for Training MCP Tool-Use Agents via Reinforcement Learning",
+    "date": "2026-08-23",
+    "source": "hf-search"
+  },
+  {
+    "n": 19,
+    "id": "2606.31174",
+    "url": "https://arxiv.org/abs/2606.31174",
+    "title": "ClawArena-Team: Benchmarking Subagent Orchestration and Dynamic Workflows in Language-Model Agents",
+    "date": "2026-06-30",
+    "source": "arxiv"
+  },
+  {
+    "n": 20,
+    "id": "2607.08662",
+    "url": "https://arxiv.org/abs/2607.08662",
+    "title": "WebSwarm: Recursive Multi-Agent Orchestration for Deep-and-Wide Web Search",
+    "date": "2026-07-09",
+    "source": "arxiv"
+  },
+  {
+    "n": 21,
+    "id": "2602.07092",
+    "url": "https://arxiv.org/abs/2602.07092",
+    "title": "Lemon Agent Technical Report",
+    "date": "2026-02-06",
+    "source": "arxiv"
+  },
+  {
+    "n": 22,
+    "id": "2605.22949",
+    "url": "https://huggingface.co/papers/2605.22949",
+    "title": "MARGIN: Runtime Confidence Calibration for Multi-Agent Foundation Model Coordination",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 23,
+    "id": "2610.12419",
+    "url": "https://huggingface.co/papers/2610.12419",
+    "title": "OneSearch-VL: Unified Multimodal Deep Research Agent for Image and Video",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 24,
+    "id": "2608.08700",
+    "url": "https://arxiv.org/abs/2608.08700",
+    "title": "PluginEval: A Diagnostic Benchmark for Fine-Grained Error Attribution in Function Calling",
+    "date": "2026-08-09",
+    "source": "arxiv"
+  },
+  {
+    "n": 25,
+    "id": "2607.05775",
+    "url": "https://arxiv.org/abs/2607.05775",
+    "title": "Beyond the Leaderboard: A Synthesis of Tool-Use, Planning, and Reasoning Failures in Large Language Model Agents",
+    "date": "2026-07-07",
+    "source": "arxiv"
+  },
+  {
+    "n": 26,
+    "id": "2609.32691",
+    "url": "https://arxiv.org/abs/2609.32691",
+    "title": "Silent Failures in Agentic Security Evaluation: A Validated Harness for Tool-Call Mediation Under Indirect Prompt Injection",
+    "date": "2026-09-26",
+    "source": "arxiv"
+  },
+  {
+    "n": 27,
+    "id": "2605.24069",
+    "url": "https://arxiv.org/abs/2605.24069",
+    "title": "When the Manual Lies: A Realistic Benchmark to Evaluate MCP Poisoning Attacks for LLM Agents",
+    "date": "2026-05-22",
+    "source": "arxiv"
+  },
+  {
+    "n": 28,
+    "id": "2606.27027",
+    "url": "https://arxiv.org/abs/2606.27027",
+    "title": "ShareLock: A Stealthy Multi-Tool Threshold Poisoning Attack Against MCP",
+    "date": "2026-06-25",
+    "source": "arxiv"
+  },
+  {
+    "n": 29,
+    "id": "2508.12538",
+    "url": "https://arxiv.org/abs/2508.12538",
+    "title": "MCPXKIT: The Unified Toolkit for Analyzing Model Context Protocol Security",
+    "date": "2025-08-18",
+    "source": "arxiv"
+  },
+  {
+    "n": 30,
+    "id": "2606.06387",
+    "url": "https://arxiv.org/abs/2606.06387",
+    "title": "WebMCP Tool Surface Poisoning: Runtime Manipulation Attacks on LLM Agents",
+    "date": "2026-06-04",
+    "source": "arxiv"
+  },
+  {
+    "n": 31,
+    "id": "2608.25776",
+    "url": "https://arxiv.org/abs/2608.25776",
+    "title": "EVOMAL: Self-Poisoning in Self-Evolving Coding Agents",
+    "date": "2026-08-26",
+    "source": "arxiv"
+  },
+  {
+    "n": 32,
+    "id": "2510.09093",
+    "url": "https://arxiv.org/abs/2510.09093",
+    "title": "Exploiting Web Search Tools of AI Agents for Data Exfiltration",
+    "date": "2025-10-10",
+    "source": "arxiv"
+  },
+  {
+    "n": 33,
+    "id": "2604.24118",
+    "url": "https://arxiv.org/abs/2604.24118",
+    "title": "AgentVisor: Defending LLM Agents Against Prompt Injection via Semantic Virtualization",
+    "date": "2026-04-27",
+    "source": "arxiv"
+  },
+  {
+    "n": 34,
+    "id": "2608.30041",
+    "url": "https://arxiv.org/abs/2608.30041",
+    "title": "Reachability-Based Capability Confinement for LLM Agents under Indirect Prompt Injection",
+    "date": "2026-08-30",
+    "source": "arxiv"
+  },
+  {
+    "n": 35,
+    "id": "2610.02569",
+    "url": "https://arxiv.org/abs/2610.02569",
+    "title": "Pincer: Resource Authorization for Agents using a Digital Twin",
+    "date": "2026-10-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 36,
+    "id": "2604.04426",
+    "url": "https://arxiv.org/abs/2604.04426",
+    "title": "ShieldNet: Network-Level Guardrails against Emerging Supply-Chain Injections in Agentic Systems",
+    "date": "2026-04-06",
+    "source": "arxiv"
+  },
+  {
+    "n": 37,
+    "id": "2609.16098",
+    "url": "https://arxiv.org/abs/2609.16098",
+    "title": "Universal Defenses for Tool-Integrated LLM Agents Against Adversarial Attacks",
+    "date": "2026-09-14",
+    "source": "arxiv"
+  },
+  {
+    "n": 38,
+    "id": "2606.25605",
+    "url": "https://arxiv.org/abs/2606.25605",
+    "title": "Constraint Tax in Open-Weight LLMs: An Empirical Study of Tool Calling Suppression Under Structured Output Constraints",
+    "date": "2026-06-24",
+    "source": "arxiv"
+  },
+  {
+    "n": 39,
+    "id": "2605.26128",
+    "url": "https://arxiv.org/abs/2605.26128",
+    "title": "The Constraint Tax: Measuring Validity-Correctness Tradeoffs in Structured Outputs for Small Language Models",
+    "date": "2026-05-20",
+    "source": "arxiv"
+  },
+  {
+    "n": 40,
+    "id": "2601.06328",
+    "url": "https://huggingface.co/papers/2601.06328",
+    "title": "ToolGym: an Open-world Tool-using Environment for Scalable Agent Testing and Data Curation",
+    "date": "2026-01-09",
+    "source": "hf-search"
+  },
+  {
+    "n": 41,
+    "id": "2609.33987",
+    "url": "https://huggingface.co/papers/2609.33987",
+    "title": "Opera: A Verbal Critic Framework for Long-horizon Coding Agents",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 42,
+    "id": "2610.08927",
+    "url": "https://huggingface.co/papers/2610.08927",
+    "title": "Can AI Agents Make Open-Ended Scientific Discovery? Evidence from Station",
+    "date": "2026-10-06",
+    "source": "hf-daily"
+  },
+  {
+    "n": 43,
+    "id": "2511.22138",
+    "url": "https://arxiv.org/abs/2511.22138",
+    "title": "TinyLLM: Evaluation and Optimization of Small Language Models for Agentic Tasks on Edge Devices",
+    "date": "2025-11-27",
+    "source": "arxiv"
+  },
+  {
+    "n": 44,
+    "id": "2610.11169",
+    "url": "https://huggingface.co/papers/2610.11169",
+    "title": "Skill Constellations: Tracing the Supply Chain of Agent Skills on GitHub",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 45,
+    "id": "2606.22388",
+    "url": "https://arxiv.org/abs/2606.22388",
+    "title": "PlanBench-XL: Evaluating Long-Horizon Planning of LLM Tool-Use Agents in Large-Scale Tool Ecosystems",
+    "date": "2026-06-21",
+    "source": "arxiv"
+  },
+  {
+    "n": 46,
+    "id": "2607.20531",
+    "url": "https://arxiv.org/abs/2607.20531",
+    "title": "DynamicMCPBench: A Trace-Grounded, Effect-Scored Benchmark for LLM Agents over Live MCP Servers",
+    "date": "2026-07-10",
+    "source": "arxiv"
+  },
+  {
+    "n": 47,
+    "id": "2606.28061",
+    "url": "https://arxiv.org/abs/2606.28061",
+    "title": "ToolPrivacyBench: Benchmarking Purpose-Bound Privacy in Tool-Using LLM Agents",
+    "date": "2026-06-26",
+    "source": "arxiv"
+  },
+  {
+    "n": 48,
+    "id": "2605.02964",
+    "url": "https://arxiv.org/abs/2605.02964",
+    "title": "Reward Hacking Benchmark: Measuring Exploits in LLM Agents with Tool Use",
+    "date": "2026-05-03",
+    "source": "arxiv"
+  },
+  {
+    "n": 49,
+    "id": "2609.01660",
+    "url": "https://arxiv.org/abs/2609.01660",
+    "title": "How Fast Do Agents Rot? An Empirical Study of Long-Horizon Degradation in LLM Agents for Production Decision-Making",
+    "date": "2026-08-31",
+    "source": "arxiv"
+  },
+  {
+    "n": 50,
+    "id": "2601.05101",
+    "url": "https://arxiv.org/abs/2601.05101",
+    "title": "Arabic Prompts with English Tools: A Benchmark",
+    "date": "2026-01-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 51,
+    "id": "2610.12289",
+    "url": "https://huggingface.co/papers/2610.12289",
+    "title": "TestPrism: Rethinking Test Evaluation Beyond a Single Reference",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 52,
+    "id": "2610.12452",
+    "url": "https://huggingface.co/papers/2610.12452",
+    "title": "BrickBench: Evaluating Agentic Brick Design",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 53,
+    "id": "2610.12183",
+    "url": "https://huggingface.co/papers/2610.12183",
+    "title": "A Closer Look at Agentic BBO: Benchmarking LLM Agents for Black-Box Optimization",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 54,
+    "id": "2610.12360",
+    "url": "https://huggingface.co/papers/2610.12360",
+    "title": "Accurate but Not Humble: Evaluating Epistemic Humility in LLM Agents under Knowledge Conflict",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 55,
+    "id": "2603.08262",
+    "url": "https://huggingface.co/papers/2603.08262",
+    "title": "FinToolBench: Evaluating LLM Agents for Real-World Financial Tool Use",
+    "date": "2026-03-09",
+    "source": "hf-search"
+  },
+  {
+    "n": 56,
+    "id": "2508.07575",
+    "url": "https://huggingface.co/papers/2508.07575",
+    "title": "MCPToolBench++: A Large Scale AI Agent Model Context Protocol MCP Tool Use Benchmark",
+    "date": "2025-08-11",
+    "source": "hf-search"
+  },
+  {
+    "n": 57,
+    "id": "2603.12230",
+    "url": "https://arxiv.org/abs/2603.12230",
+    "title": "Security Considerations for Artificial Intelligence Agents",
+    "date": "2026-03-12",
+    "source": "arxiv"
+  }
+]
